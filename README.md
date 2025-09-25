@@ -1,2 +1,3 @@
 baca dulu yaaa
-apa kabar
+apa kabar 1
+3
